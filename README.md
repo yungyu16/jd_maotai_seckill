@@ -5,13 +5,9 @@
 有需要炒股赚钱的加群吧
 
 <table id='wechat_group1'>
- <tr><td id='group_6'>
-            <img src='https://github.com/ChinaVolvocars/flutter_saas/blob/master/weichat/wx6.png?size=140'>
-            <h4 align='center'>群6</h4>
-        </td>
-          <td id='group_7'>
-            <img src="https://github.com/ChinaVolvocars/flutter_saas/blob/master/weichat/wx7.png?size=140">
-            <h4 align='center'>群7</h4>
+ <tr><td id='group_8'>
+            <img src="https://github.com/ChinaVolvocars/flutter_saas/blob/master/weichat/wx8.png?size=140">
+            <h4 align='center'>群8</h4>
         </td>
     </tr>
 </table>

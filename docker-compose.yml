@@ -1,0 +1,14 @@
+version: "3"
+services:
+  jd-kill:
+    image: jd-kill
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - type: bind
+        source: /data/logs
+        target: /data/logs
+      - type: bind
+        source: /data/res
+        target: /data/res
